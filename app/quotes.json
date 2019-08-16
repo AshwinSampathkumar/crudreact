@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id":1,
+      "author": "The Joker",
+      "quote": "Y so serious!!!!!"
+    },
+    {
+      "id":2,
+      "author": "The Joker",
+      "quote": "Madness, as you know, is like gravity. All it takes.....is a little push."
+    },
+    {
+      "id":3,
+      "author": "The Joker",
+      "quote": "Introduce a little anarchy. Upset the established order. Everything becomes Chaos!"
+    }
+  ]
+}
